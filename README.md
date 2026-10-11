@@ -1,6 +1,6 @@
 # lavella-media: image host for the Lavella console
 
-Updated 2026-10-10.
+Updated 2026-10-11.
 
 This repository has one job: to serve the images used by the Lavella console on the Shopify store (mylavella.com). GitHub Pages publishes them at:
 
@@ -14,7 +14,7 @@ The console itself is a single Shopify theme section built from `lavella-site` (
 
 ## What changed in this update
 - First upload. The repo was created for the console.
-- 45 images. They are product photos from the store, and brand, care and seasonal photos. All are JPEG at about 85% quality, at most 1600 px. The logo and icons are PNG.
+- 53 images. They are product photos from the store, and brand, care and seasonal photos. All are JPEG at about 85% quality, at most 1600 px. The logo and icons are PNG.
 - The seasonal photos (`season-*.jpg`) and the "Unlock a world" images (`unlock-*.jpg`) are cropped from Amy's own photo files. Any screenshot text was left out.
 
 ## Every file in the repo
@@ -23,16 +23,22 @@ The console itself is a single Shopify theme section built from `lavella-site` (
 | `brand-1.jpg` | 88 KB |
 | `brand-2.jpg` | 85 KB |
 | `brand-3.jpg` | 88 KB |
+| `cotm-halloween.jpg` | 54 KB |
 | `family.jpg` | 183 KB |
 | `icon-handmade.png` | 42 KB |
 | `icon-ifra.png` | 10 KB |
 | `icon-owned.png` | 29 KB |
+| `logo-wing-l.png` | 6 KB |
+| `logo-wing-r.png` | 6 KB |
+| `logo-word.png` | 5 KB |
 | `logo.png` | 19 KB |
 | `p-aurora.jpg` | 222 KB |
+| `p-autumn-cider.jpg` | 32 KB |
 | `p-bliss.jpg` | 189 KB |
 | `p-cafe.jpg` | 248 KB |
 | `p-cashmere.jpg` | 145 KB |
 | `p-castaway.jpg` | 212 KB |
+| `p-cinnamon-harvest.jpg` | 30 KB |
 | `p-coastal.jpg` | 212 KB |
 | `p-crystal.jpg` | 180 KB |
 | `p-delicate.jpg` | 121 KB |
@@ -46,6 +52,8 @@ The console itself is a single Shopify theme section built from `lavella-site` (
 | `p-parchment.jpg` | 156 KB |
 | `p-petrichor.jpg` | 192 KB |
 | `p-polynesia.jpg` | 226 KB |
+| `p-pumpkin-butter.jpg` | 28 KB |
+| `p-pumpkin-hollow.jpg` | 34 KB |
 | `p-quartz.jpg` | 152 KB |
 | `p-shipwreck.jpg` | 195 KB |
 | `p-speakeasy.jpg` | 222 KB |
